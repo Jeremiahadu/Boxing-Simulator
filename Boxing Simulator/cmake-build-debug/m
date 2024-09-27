@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1461783935 source:C:\Users\jerem\CLionProjects\untitled1\main.cpp
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<random>
+	<set>
+	<time.h>
+	<vector>
